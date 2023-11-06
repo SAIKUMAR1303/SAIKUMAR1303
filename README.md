@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SAIKUMAR1303
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in working as a Data Analyst
+- 🌱 I’m currently learning post graduation program in data analytics and machine learning.
 - 💞️ I’m looking to collaborate on Data analyst
 - 📫 reach me via email saikumarb1303@gmail.com
 
